@@ -1,4 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 .hat
 {
+    margin: 400px;
+    padding: 400px;
     color: #ff0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
