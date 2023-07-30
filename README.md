@@ -1,0 +1,12 @@
+# VERCEL DEPLOYMENT OF ENTIRE MERN APP
+
+TO DEPLOY BUILD AND DEPLOY THE ENTIRE PROJECT IN WINDOWS OS USE COMMAND
+```
+npm run deploy
+```
+ON LINUX USE
+```
+npm run deploy-linux
+```
+
+## --made by Pranay
