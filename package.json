@@ -19,6 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "@iconify-icon/react": "^1.0.8",
+    "@iconify/react": "^4.1.1",
     "@reduxjs/toolkit": "^1.9.5",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
@@ -62,6 +63,5 @@
     "vite": "^4.4.5",
     "xss-clean": "^0.1.4",
     "yamljs": "^0.3.0"
-  },
-  "devDependencies": {}
+  }
 }
